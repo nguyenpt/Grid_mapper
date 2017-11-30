@@ -12,3 +12,5 @@ rosrun grid_mapper grid_mapper [width] [height]
 ```
 
 Recommended width and height is around 200x200.
+
+Press the 'x' key in order to make a screenshot of the grip map.
